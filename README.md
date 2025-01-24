@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="(https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=Hey%20Everyone&textBg=false)"/>
 </p>
 
